@@ -451,7 +451,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u200B"
+  m_text: "How to Use It?\r\nUse the \"Left\" and \"Right\" arrows to rewind or fast-forward
+    the text.\r\nUse the \"Up\" and \"Down\" arrows to increase or decrease the reading
+    speed (number of words per second).\r\nPress the \"Space\" button to pause/continue
+    the reading.\r\nYou can also adjust the available parameters to customize the
+    experience.\r\nI'll add more information about the project soon! ;)\u200B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1229,7 +1233,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 502552090}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
@@ -3523,7 +3527,21 @@ MonoBehaviour:
   m_CaretColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_CustomCaretColor: 0
   m_SelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
-  m_Text: 
+  m_Text: 'How to Use It?
+
+    Use the "Left" and "Right" arrows to rewind or fast-forward
+    the text.
+
+    Use the "Up" and "Down" arrows to increase or decrease the reading
+    speed (number of words per second).
+
+    Press the "Space" button to pause/continue
+    the reading.
+
+    You can also adjust the available parameters to customize
+    the experience.
+
+    I''ll add more information about the project soon! ;)'
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
