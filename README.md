@@ -9,4 +9,4 @@ This is a simple MVP for an app designed for word-by-word reading based on RSVP 
 - Press the "Space" button to pause/continue the reading.
 - You can also adjust the available parameters to customize the experience.
 
-I'll add more information aboute the project soon ;)
+I'll add more information about the project soon ;)
